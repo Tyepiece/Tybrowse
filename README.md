@@ -2,7 +2,7 @@
 
 Tybrowse is a fully open source browser with no data being collected at all!
 
-- Wawa Cat at Tyepiece Technologies
+- Spacecat at Tyepiece Technologies
 
 # Why did we make TyBrowse?
 Mozilla sucks, including Firefox. We are trying to be better than Firefox, because Firefox broke the promise of NEVER SELLING YOUR DATA.
