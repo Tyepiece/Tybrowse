@@ -1,0 +1,13 @@
+{
+    "theme": "dark",
+    "font": "Arial",
+    "adblock": true,
+    "bookmarks": [
+        "https://www.google.com/"
+    ],
+    "history": [
+        "https://www.google.com/",
+        "about:blank",
+        "https://www.youtube.com/"
+    ]
+}
