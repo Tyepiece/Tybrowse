@@ -3,11 +3,10 @@
     "font": "Arial",
     "adblock": true,
     "bookmarks": [
-        "https://www.google.com/"
+        "https://www.google.com/",
+        "https://cfm-miku-en.github.io/TyBrowse/"
     ],
     "history": [
-        "https://www.google.com/",
-        "about:blank",
-        "https://www.youtube.com/"
+        "about:blank"
     ]
 }
