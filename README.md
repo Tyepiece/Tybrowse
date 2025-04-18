@@ -1,4 +1,4 @@
-**TyBrowse 1.7 will be deprecated on Sunday, April 18th 2025, 11:59 PM Effective..**
+**TyBrowse 1.7 will be deprecated on Sunday, April 18th 2025, 11:59 PM Effective.**
 
 Tybrowse is a fully open source browser with no data being collected at all!
 
