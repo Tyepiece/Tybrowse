@@ -1,5 +1,3 @@
-**TyBrowse has not been updated for almost 3 months, Updates might come or not, while waiting, use Librewolf.**
-
 Tybrowse is a fully open source browser with no data being collected at all!
 
 - Spacecat at Tyepiece
